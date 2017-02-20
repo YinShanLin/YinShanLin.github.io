@@ -1,6 +1,5 @@
 ## 欢迎来到我的个人主页
 
-编辑 [editor on GitHub](https://github.com/YinShanLin/YinShanLin.github.io/edit/master/index.md) 
 
 建设中,敬请期待...
 
